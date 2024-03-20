@@ -1,0 +1,4 @@
+atscale
+cryptocode
+pycryptodome
+streamlit
